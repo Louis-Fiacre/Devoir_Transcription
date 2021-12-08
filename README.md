@@ -21,17 +21,17 @@ Dans la branche main, il y aura :
  - Un fichier 'introduction_du_manuscrit.txt' qui décrit le manuscrit que nous allons transcrire.
 
 
-Une seconde branche, 'collaboration' qui contient la même structure que main, servira pour le travail courant. Ainsi nous verserons les éléments de collaboration vers main  chaque évolution majeure et vérifiée.
+Une seconde branche, 'collaboration' qui contient la même structure que main, servira pour le travail courant. Ainsi nous verserons les éléments de collaboration vers main à chaque évolution majeure et vérifiée.
 
 ## Fabriqué avec
 
-	[eScriptorium](https://escriptorium.inria.fr/)
+	[eScriptorium](https://escriptorium.inria.fr)
 
 ## Contribution
 
-	Ce projet n'est pas ouvert au contribution.
+	Ce projet n'est pas ouvert aux contributions.
 
 ## Auteurs
 
-* **Margot Pascual** _alias_ [@?] https://github.com/?)
+* **Margot Pascual** _alias_ [@amynthe](https://github.com/amynthe)
 * **Louis-Fiacre Franchet d'Espèrey** _alias_ [@Louis-Fiacre](https://github.com/Louis-Fiacre)
