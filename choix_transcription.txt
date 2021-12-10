@@ -1,1 +1,5 @@
-Choix :
+
+#1ère norme de transcription:
+
+ - Gestion des abbréviations: toujours transcrire en forme développée à l'aide de crochets.
+ 
