@@ -10,7 +10,7 @@ Le but étant d'apprendre à utiliser git et github pour mener à bien notre pre
 
 Dans la branche main, il y aura : 
 
- - Un Dossier 'Images' contenant cinq images issues du Témoignage du pillage du Château de Chavigny à Lerné en Touraine en 1468 par les protestants.
+ - Un Dossier 'Images' contenant six images issues du Témoignage du pillage du Château de Chavigny à Lerné en Touraine en 1468 par les protestants.
 
  - Un Dossier 'Escriptorium' qui contiendra les sorties d'eScriptorium.
 
