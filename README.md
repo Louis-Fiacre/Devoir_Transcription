@@ -14,7 +14,7 @@ Dans la branche main, il y aura :
 
  - Un Dossier 'Escriptorium' qui contiendra les sorties d'eScriptorium.
 
- - Un Dossier 'Transcription' qui contiendra nos retouches des fichiers issus du dossier Escriptorium
+ - Un Dossier 'Transcription' qui contiendra notre compte rendu
 
  - Un fichier 'choix_transcription.txt' qui explique nos choix de transcription.
   
@@ -25,7 +25,7 @@ Une seconde branche, 'collaboration' qui contient la même structure que main, s
 
 ## Fabriqué avec
 
-	[eScriptorium](https://escriptorium.inria.fr)
+* **eScriptorium** _alias_ [eScriptorium](https://escriptorium.inria.fr)
 
 ## Contribution
 
