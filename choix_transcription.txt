@@ -5,4 +5,8 @@
 
 #2ième norme :
 
- - Gestion des échecs de transcription de caractère : lorsqu'un qu'un caractère nous paraît non sur, nous préférons mettre un [?] pour indiquer qu'il y a un caractère non transcrit dans un mot. Pour plusieurs caractères, faire autant de ? que de caractère non reconnu : tel [???] pour 3 caractères. 
+ - Gestion des échecs de transcription de caractère : lorsqu'un qu'un caractère nous paraît non sur, nous préférons mettre un [?] pour indiquer qu'il y a un caractère non transcrit dans un mot. Pour plusieurs caractères, faire autant de ? que de caractère non reconnu : tel [???] pour 3 caractères.
+
+#3ième norme : 
+
+ - les abbréviations doivent être mises tel quel
