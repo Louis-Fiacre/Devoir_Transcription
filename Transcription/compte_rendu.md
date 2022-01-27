@@ -59,3 +59,26 @@ voudraient se pencher sur l'histoire du château, et pouvoir ainsi en extraire d
 ## Problématiques diverses
 
 [à compléter]
+Les principales problématiques se dégageant de notre devoir sont bien évidemment, dans un premier temps, l’utilisation des issues pour 
+un travail de transcription réalisé en équipe. Dans un premier temps, nous nous sommes contentés d’utiliser les issues pour prévenir 
+d’éventuels obstacles ou difficultés que nous rencontrions lors de nos transcriptions : mais étant donné que le projet s’est étendu sur 
+la période des vacances de Noël, où nous n’avons pas pu nous voir ou communiquer aisément, nous nous sommes vite rendus compte de la 
+nécessité d’utiliser les issues pour prévenir l’un et l’autre de nos avancées, car il est arrivé à plusieurs reprises que nous travaillions 
+sur le même feuillet. Nous avons aussi choisi de ne pas seulement utiliser les labels de github mais aussi de créer les nôtres, plus personnalisés
+et utiles pour classer facilement les issues en urgent et moins urgent.
+
+ 
+
+Une autre problématique que nous avons rencontré fut une problématique liée aux limites de la transcription : la conservation de la mise en page 
+des feuillets originels. Ces derniers étant jonchés de ratures et de rajouts dans les marges, nous avons dans un premier temps pensé à conserver 
+ceux-ci dans notre transcription, et de conserver cette mise en page grâce à E-Scriptorium : seulement, à cause de la nature assez anarchique 
+de la structure du feuillet, nous n’avons pas réussi à retranscrire cela en XML/ALTO.
+
+ 
+
+Enfin, la dernière problématique majeure que nous avons rencontrée lors de ce projet fut la mise en libre-service de notre transcription pour 
+le plus grand nombre : comme énoncé précédemment, la volonté de publier notre transcription en XML/ALTO en faisait partie, mais la structure de 
+notre repository et le fait de publier nos choix de transcription constituent aussi une tentative de répondre à cette problématique. En effet, 
+puisque nous tenions à ce que ces données puissent être réutilisées par des chercheurs, nous avons jugé nécessaire d’expliquer nos choix 
+au fur et à mesure que nous transcrivions, et que notre repository soit assez simple à naviguer afin que les chercheurs puissent trouver les 
+informations dont ils ont besoin assez facilement- ou rejoindre le projet en cours de route.
