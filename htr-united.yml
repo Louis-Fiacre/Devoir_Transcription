@@ -1,0 +1,47 @@
+schema: "https://htr-united.github.io/schema/2021-10-15/schema.json"
+title: Chateau de Chavigny
+url: 'https://github.com/PSL-Chartes-HTR-Students/HN2021-ChateauChavigny'
+project-name: "ENC - Bonnes pratiques du developpement collaboratif"
+authors:
+    - name: 'Pascual'
+      surname: 'Margot'
+      roles:
+      - 'transcriber'
+    - name: 'Franchet d\u0027Espèrey'
+      surname: 'Louis-Fiacre'
+      roles:
+      - 'transcriber'
+      - 'digitization'
+description: >
+  Le document sur lequel nous travaillons porte sur le Château de Chavigny à Lerné en Touraine. Au XVIème siècle, c’est la famille des seigneurs Leroy qui possède ce château. Avant 1568, en pleine guerre de religion, François Leroy, du parti du roi et des catholiques, participe à la capture et la rançon du prince de Condé, du parti protestant. En 1568, François Leroy, en tant que capitaine de 50 lances au service du roi, part en campagne avec lui. 
+  L'objectif est de transcrire cinq feuillets d'un manuscrit à l'aide d'eScriptorium.
+  Le but étant d'apprendre à utiliser git et github pour mener à bien notre premier projet collaboratif.
+language:
+  - frm
+script: 
+  - Latn
+script-type: 'only-manuscript'
+time: 
+  notBefore: "1568"
+  notAfter: "1599"
+hands: 
+  count: '1'
+  precision: 'exact'
+license:
+  - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
+format: 'Alto-XML'
+citation-file-link: 'https://raw.githubusercontent.com/PSL-Chartes-HTR-Students/HN-2021-ChateauChavigny/main/CITATION.cff'
+transcription-guidelines: >
+    - Gestion des abbréviations: 
+        - Si développement (pas toujours), les développer entre crochets.
+        - L'orthographe originale et les abréviations doivent être conservées.
+    - Gestion des échecs de transcription de caractère : lorsqu'un qu'un caractère nous paraît non sur, nous préférons mettre un [?] pour indiquer qu'il y a un caractère non transcrit dans un mot. Pour plusieurs caractères, faire autant de ? que de caractère non reconnu : tel [???] pour 3 caractères.
+volume:
+    - count: 259
+      metric: "lines"
+    - count: 6
+      metric: "files"
+    - count: 22
+      metric: "regions"
+    - count: 8982
+      metric: "characters"
