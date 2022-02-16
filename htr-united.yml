@@ -16,7 +16,7 @@ authors:
   surname: Simon
   roles:
   - transcriber
-  - "quality-control"
+  - quality-control
 description: "Le document sur lequel nous travaillons porte sur le Ch\xE2teau de Chavigny\
   \ \xE0 Lern\xE9 en Touraine. Au XVI\xE8me si\xE8cle, c\u2019est la famille des seigneurs\
   \ Leroy qui poss\xE8de ce ch\xE2teau. Avant 1568, en pleine guerre de religion,\
@@ -51,10 +51,10 @@ transcription-guidelines: "- Gestion des abbr\xE9viations: \n    - Si d\xE9velop
   \ de caract\xE8re non reconnu : tel [???] pour 3 caract\xE8res.\n"
 volume:
 - metric: characters
-  count: 8982
+  count: 9126
 - metric: files
   count: 6
 - metric: lines
-  count: 259
+  count: 253
 - metric: regions
   count: 22
