@@ -1,12 +1,12 @@
 cff-version: 1.2.0
 message: "If you use this dataset, please cite it as below."
 authors:
-- family-names: "Pascual"
-  given-names: "Margot"
-- family-names: "Franchet d"Espèrey"
-  given-names: "Louis-Fiacre"
-- family-names: "Gabay"
-  given-names: "Simon"
+  - family-names: "Pascual"
+    given-names: "Margot"
+  - family-names: "Franchet d"Espèrey"
+    given-names: "Louis-Fiacre"
+  - family-names: "Gabay"
+    given-names: "Simon"
 title: "Château de Chavigny"
 version: 1.0
 date-released: 2022-02-16
