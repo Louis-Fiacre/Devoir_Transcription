@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+authors:
+- family-names: "Pascual"
+  given-names: "Margot"
+- family-names: "Franchet d"Espèrey"
+  given-names: "Louis-Fiacre"
+- family-names: "Gabay"
+  given-names: "Simon"
+title: "Château de Chavigny"
+version: 0.0.1
+date-released: 2022-02-16
+url: "https://github.com/PSL-Chartes-HTR-Students/HN2021-ChateauChavigny"
+type: data
